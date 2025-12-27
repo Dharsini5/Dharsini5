@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharsini5&label=Profile%20views&color=0e75b6&style=flat" alt="dharsini5" /> </p>
 
-- 🔭 I’m currently pursuing **B Tech IT**
+- 🔭 I’m currently working as **Assistant Professor**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 Open to Learn 
 
 - 📫 How to reach me **dharsiniyuvaraj@gmail.com**
 
